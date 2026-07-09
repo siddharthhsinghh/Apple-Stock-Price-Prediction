@@ -4,8 +4,6 @@ Predicting AAPL's daily closing price using classical ML models, validated with 
 (rolling-window) cross-validation instead of a single train/test split — the more realistic
 way to evaluate a model on time series data.
 
-![Results Chart](apple_stock_prediction_results.png)
-
 ## Why walk-forward validation
 
 Stock prices are sequential — a random train/test split leaks future information into training,
