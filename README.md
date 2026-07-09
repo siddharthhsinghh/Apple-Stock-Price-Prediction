@@ -92,7 +92,3 @@ Python · pandas · NumPy · scikit-learn · yfinance · Matplotlib
 - Tune hyperparameters using `TimeSeriesSplit` instead of fixed values
 - Add feature importance analysis (e.g., permutation importance) to see which technical
   indicators actually drive predictions across models
-
-## License
-
-MIT
